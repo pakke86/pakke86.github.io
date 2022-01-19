@@ -1,0 +1,95 @@
+[
+    {
+        "id": "1",
+        "quiztext": "What is whale for type of animal?",
+        "answer1": "Fish",
+        "answer2": "Mammals",
+        "answer3": "Repile",
+        "correct": 2
+    },
+    {
+        "id": "2",
+        "quiztext": "Which was the first pizza in history?",
+        "answer1": "Magargitas",
+        "answer2": "Venusio",
+        "answer3": "Capricossa",
+        "correct": 2,
+        "imgUrl": "https://www.delonghi.com/Global/recipes/multifry/3_pizza_fresca.jpg"
+    },
+    {
+        "id": "3",
+        "quiztext": "Where is the effiel tower placed in?",
+        "answer1": "Germany",
+        "answer2": "Spain",
+        "answer3": "France",
+        "qrLinkUrl": "www.google.com",
+        "correct": 3,
+        "imgUrl": "http://www.bargaintraveleurope.com/10/images/eiffel_tower_palais.jpg"
+    },
+    {
+        "id": "1",
+        "quiztext": "What is whale for type of animal?",
+        "answer1": "Fish",
+        "answer2": "Mammals",
+        "answer3": "Repile",
+        "correct": 2
+    },
+    {
+        "id": "2",
+        "quiztext": "Which was the first pizza in history?",
+        "answer1": "Magargitas",
+        "answer2": "Venusio",
+        "answer3": "Capricossa"
+    },
+    {
+        "id": "3",
+        "quiztext": "Where is the effiel tower placed in?",
+        "answer1": "Germany",
+        "answer2": "Spain",
+        "answer3": "France"
+    },
+    {
+        "id": "1",
+        "quiztext": "What is whale for type of animal?",
+        "answer1": "Fish",
+        "answer2": "Mammals",
+        "answer3": "Repile"
+    },
+    {
+        "id": "2",
+        "quiztext": "Which was the first pizza in history?",
+        "answer1": "Magargitas",
+        "answer2": "Venusio",
+        "answer3": "Capricossa"
+    },
+    {
+        "id": "3",
+        "quiztext": "Where is the effiel tower placed in?",
+        "answer1": "Germany",
+        "answer2": "Spain",
+        "answer3": "France"
+    },
+    
+    {
+        "id": "1",
+        "quiztext": "What is whale for type of animal?",
+        "answer1": "Fish",
+        "answer2": "Mammals",
+        "answer3": "Repile"
+    },
+    {
+        "id": "2",
+        "quiztext": "Which was the first pizza in history?",
+        "answer1": "Magargitas",
+        "answer2": "Venusio",
+        "answer3": "Capricossa"
+    },
+    {
+        "id": "3",
+        "quiztext": "Where is the effiel tower placed in?",
+        "answer1": "Germany",
+        "answer2": "Spain",
+        "answer3": "France"
+
+    }
+]
